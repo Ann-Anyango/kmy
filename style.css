@@ -96,12 +96,14 @@ h6{
 }
 
 .products{
-     margin-top: 10%;
-    padding: 5px 2px;
+     margin-top: 6%;
+     padding: 10px 12px;
     border-radius: 10px; 
-    background-color: #222224;
-    color: #f1f3f5;
-    border-color: #222224;
+   background-color: #222224;  
+     color:white ; 
+     border-color: #222224; 
+    border-radius: 12%;
+    
 
 
 }
@@ -154,6 +156,7 @@ h2{
 }
 .water{
     margin-top: 15px;
+    
 }
 .me{
     margin-top: 80px;
@@ -162,8 +165,11 @@ h2{
 .betty{
     display: flex;
 }
-
-
+hr{
+    width: 5%;
+    color: #f1f3f5;
+    margin-left: 52%;
+}
 
 
 
